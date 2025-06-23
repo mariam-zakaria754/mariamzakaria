@@ -1,7 +1,7 @@
 # Welcome to Mariam's GitHub Profile! 👋
 
-<img align="right" src="https://github.com/mariam-zakaria754/mariam-zakaria754/blob/main/hijabi-dev.png?raw=true" width="250"/>
-## 🔭 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>## 🔭 About Me
 Hi, I'm Mariam — a junior Front-End Developer  
 👩‍💻 I'm currently learning programming through Almdrasa Platform  
 📚 I love reading, learning, and constantly exploring new technologies  
