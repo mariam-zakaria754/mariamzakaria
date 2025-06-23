@@ -1,6 +1,12 @@
 # Welcome to Mariam's GitHub Profile! 👋
 
+<h1 align="center">Hi there 👋, I'm Mariam</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C93&center=true&vCenter=true&width=435&lines=Front-End+Developer;Lifelong+Learner;Passionate+about+coding+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+---
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>Hi, I'm Mariam — a junior Front-End Developer  
 👩‍💻 I'm currently learning programming through Almdrasa Platform  
 📚 I love reading, learning, and constantly exploring new technologies  
