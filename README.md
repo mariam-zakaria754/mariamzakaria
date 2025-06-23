@@ -13,8 +13,8 @@ Hi, I'm Mariam — a junior Front-End Developer
 🎮 Projects include interactive apps, simple websites, and mini games I’ve built
 
 ## 📫 Connect with me:
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mariam-zakaria-b11139294)
-)) 
+- [LinkedIn]([[(https://www.linkedin.com/in/mariam-zakaria-b11139294)]])
+
 
 
 ## 🛠️ Tech Stack I'm Learning / Using:
