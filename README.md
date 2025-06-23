@@ -16,7 +16,7 @@
 🎮 Projects include interactive apps, simple websites, and mini games I’ve built
 
 ## 📫 Connect with me:
-### 🤝 Connect with me
+
 
 <p align="left">
   <!-- Gmail -->
@@ -48,7 +48,7 @@
 
 
 ## 🛠️ Tech Stack I'm Learning / Using:
-### 🛠️ Tech Stack
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
